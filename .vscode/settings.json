@@ -1,0 +1,7 @@
+{
+    "debug.console.fontSize": 13,
+    "prettier.embeddedLanguageFormatting": "off",
+    "dart.enableSdkFormatter": true,
+    "dart.lineLength": 80,
+    "editor.formatOnType": true
+}
