@@ -8,7 +8,7 @@ class Question extends StatelessWidget {
     //now it is using container as a refrence
     return Container(
       width: double.infinity,
-      margin: EdgeInsets.all(25),
+      margin: EdgeInsets.all(30),
       child: Text(
         questionText,
         style: TextStyle(fontSize: 25, fontFamily: 'RobotoMono'),
