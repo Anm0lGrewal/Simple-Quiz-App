@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+<img width="441" alt="Screenshot 2023-05-28 at 2 08 42 PM" src="https://github.com/Anm0lGrewal/Simple-Quiz-App/assets/93851911/7bd69948-e73f-4535-85b9-eb19426a3cbc"> <img width="441" alt="Screenshot 2023-05-28 at 2 08 48 PM" src="https://github.com/Anm0lGrewal/Simple-Quiz-App/assets/93851911/732a953d-c37e-4466-af9b-8307d83aae69">
+
 
 This project is a starting point for a Flutter application.
 
